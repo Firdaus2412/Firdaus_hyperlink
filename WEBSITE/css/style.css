@@ -1,0 +1,117 @@
+body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:grey;
+}
+
+
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+header{
+  background-image: url(showcase.jpg);
+  color:white;
+  font-weight: bold;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+header a{
+  color:white;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:16px;
+}
+
+header li{
+  float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+  font-weight: bold;
+}
+
+
+ ul#services li{
+  list-style: none;
+  padding:20px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+}
+
+header #branding{
+  float:left;
+}
+
+header #branding h1{
+  margin:0;
+}
+
+header nav{
+  float:right;
+  margin-top:10px;
+}
+
+header .highlight, header .current a{
+  color:red;
+  font-weight:bold;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+}
+
+
+
+#section1{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid;
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+}
+
+#section2{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid; 	
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+}
+#section3{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid;
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+}
+#section4{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid;
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+}
+#section5{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid;
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+}
+#section6{
+	font-size: 25px; font-family: Arial, Helvetica, serif; color: white ; text-align: center; 
+	margin:0; padding: 30px; border-bottom:#e8491d 3px solid;
+	background-image: url(123.jpg); background-size: cover; background-attachment: fixed;
+
+}
+
+
+
+footer{
+  padding:0.5px;
+  color:#ffffff;
+  background-image: url(showcase.jpg);
+  text-align: center;
+}
